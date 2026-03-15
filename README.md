@@ -1,5 +1,0 @@
-﻿# Cinematography-portfolio-
-
-
-
-changing the readme file soon.....
